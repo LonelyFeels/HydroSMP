@@ -24,7 +24,3 @@ function copyText(text){
     copyText("hydrovanillasmp.dedimc.io");
     btn.innerHTML = "IP Copied!";
   })
-  
-  
-  document.getElementById("copyButton").onmouseover = function() {mouseOver()};
-  document.getElementById("copyButton").onmouseout = function() {mouseOut()};
